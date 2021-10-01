@@ -28,10 +28,10 @@ function draw() {
   fill("white")
   text("Instrucciones:",20, 35);
   textSize(15);
-  text("Flecha arriba = Lavarse los dientes",20, 55);
-  text("Flecha abajo = Hacer ejercicio",20, 70);
-  text("Flecha izquierda = Comer",20, 85);
-  text("Flecha derecha = Bañarse",20, 100);
+  text("Flecha hacia arriba = Cepillarse",20, 55);
+  text("Flecha hacia abajo = Ejercitarse",20, 70);
+  text("Flecha hacia la Izquierda = Comer",20, 85);
+  text("Flecha hacia la Derecha = Bañarse",20, 100);
   text("tecla m = Moverse",20, 115);
   
   /*edges=createEdgeSprites();
