@@ -26,13 +26,13 @@ function draw() {
 
   textSize(20);
   fill("white")
-  text("Instructions:",20, 35);
+  text("Instrucciones:",20, 35);
   textSize(15);
-  text("Up Arrow = Brushing",20, 55);
-  text("Down Arrow = Gymming",20, 70);
-  text("Left Arrow = Eating",20, 85);
-  text("Right Arrow = Bathing",20, 100);
-  text("m key = Moving",20, 115);
+  text("Flecha hacia arriba = Lavarse los dientes",20, 55);
+  text("Flecha hacia abajo = Hacer ejercicio",20, 70);
+  text("Flecha izquierda = Comer",20, 85);
+  text("Felcha derecha = Bañarse",20, 100);
+  text("tecla m = Moverse",20, 115);
   
   /*edges=createEdgeSprites();
   astronautbounce.Off(edges);*/
